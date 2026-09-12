@@ -4,7 +4,7 @@ Name: Praveen Baghel
 
 Enrollment Number: 2402309087
 
-Class/Section:  BCA / vB
+Class/Section:  BCA / 5B
 
 Programs Completed: 15/15
 
