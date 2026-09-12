@@ -1,10 +1,10 @@
 # Computer Vision Unit II Programming Assignment
 
-Name: <Praveen Baghel>
+Name: Praveen Baghel
 
-Enrollment Number: <2402309087>
+Enrollment Number: 2402309087
 
-Class/Section:  <BCA / 5B>
+Class/Section:  BCA / vB
 
 Programs Completed: 15/15
 
